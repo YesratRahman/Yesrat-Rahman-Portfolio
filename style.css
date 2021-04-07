@@ -12,3 +12,10 @@ html {
   text-align: center; 
 } 
 
+img {
+    max-width: 100%;
+    width: 220px;
+    height: 220px;
+    margin-left: 200px;
+}
+
