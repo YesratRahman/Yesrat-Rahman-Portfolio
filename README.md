@@ -14,6 +14,13 @@
     * [https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/](https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/)
 * **LinkedIn:** [https://www.linkedin.com/in/yesrat-rahman-84743717a/](https://www.linkedin.com/in/yesrat-rahman-84743717a/)
 
-### Education 
+### Education
+* Virginia Tech (2019 - 2020)
+   * Bachelor of Science (BS)
+   * Computer Science Major, Mathematics Minor
+* Northern Virginia Community College (2018-2019) 
+   * Associate Degree 
+   * Computer Science Major
 
+### Summary
 
