@@ -3,7 +3,8 @@
 
 # Full Stack Engineer
 
-![image](https://media-exp1.licdn.com/dms/image/C4D03AQEylwLAduOJUg/profile-displayphoto-shrink_400_400/0/1610250798485?e=1623283200&amp;v=beta&amp;t=vTFYfGMzVg3FvI2lCMgaFScIGOwgFwzK9MK8tUSC9t0)
+![image](https://user-images.githubusercontent.com/49998106/113920516-e06aca80-97b2-11eb-9250-dee377baf2b3.png)![image](https://user-images.githubusercontent.com/49998106/113930278-12822980-97bf-11eb-8388-7416a1f57383.png)
+
 
 ## About
 
