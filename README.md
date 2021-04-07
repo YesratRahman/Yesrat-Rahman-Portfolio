@@ -3,7 +3,8 @@
 
 # Full Stack Engineer
 
-<img src="https://user-images.githubusercontent.com/49998106/113920516-e06aca80-97b2-11eb-9250-dee377baf2b3.png" alt="image">
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGfnkDJDNDZvw/profile-displayphoto-shrink_400_400/0/1617829757947?e=1623283200&amp;v=beta&amp;t=zSfu8DvZDigPgo3PiEKyKN6P_8d1nqwSexCLXXpx8AA" alt="image">
+
 
 ## About
 
