@@ -3,7 +3,7 @@
 
 # Full Stack Engineer
 
-![image](https://user-images.githubusercontent.com/49998106/113920516-e06aca80-97b2-11eb-9250-dee377baf2b3.png)![image](https://user-images.githubusercontent.com/49998106/113930278-12822980-97bf-11eb-8388-7416a1f57383.png)
+![image](https://user-images.githubusercontent.com/49998106/113920516-e06aca80-97b2-11eb-9250-dee377baf2b3.png)
 
 
 ## About
