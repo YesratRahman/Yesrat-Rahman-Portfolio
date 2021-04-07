@@ -4,6 +4,6 @@
 ## About
 
 ### Contact Information 
-* Email: 
-* LinkedIn:  
+* **Email**: 
+* **LinkedIn**:  
 
