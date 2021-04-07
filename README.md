@@ -3,8 +3,7 @@
 
 # Full Stack Engineer
 
-![Image](https://media-exp1.licdn.com/dms/image/C4D03AQEylwLAduOJUg/profile-displayphoto-shrink_400_400/0/1610250798485?e=1623283200&amp;v=beta&amp;t=vTFYfGMzVg3FvI2lCMgaFScIGOwgFwzK9MK8tUSC9t0)
-
+![image](https://media-exp1.licdn.com/dms/image/C4D03AQEylwLAduOJUg/profile-displayphoto-shrink_400_400/0/1610250798485?e=1623283200&amp;v=beta&amp;t=vTFYfGMzVg3FvI2lCMgaFScIGOwgFwzK9MK8tUSC9t0)
 
 ## About
 
@@ -23,5 +22,18 @@
    * Computer Science Major
 
 ### Summary
-Dedicated Full Stack Engineer with the experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. 
+Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products with deadline.
 
+<hr><hr>
+
+## Personal Projects
+### Owner and Creator
+#### Personal Wallet
+
+### Owner and Creator
+#### Contributor
+
+
+<hr><hr>
+
+## Experience 
