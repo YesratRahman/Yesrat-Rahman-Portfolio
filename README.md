@@ -3,10 +3,7 @@
 
 # Full Stack Engineer
 
-<img src="https://user-images.githubusercontent.com/49998106/113920516-e06aca80-97b2-11eb-9250-dee377baf2b3.png" alt="image" style="max-width: 100%;
-    width: 220px;
-    height: 280px;
-    margin-left: 200px;  ">
+<img src="https://user-images.githubusercontent.com/49998106/113920516-e06aca80-97b2-11eb-9250-dee377baf2b3.png" alt="image" style="max-width: 100%; width: 220px; height: 280px; margin-left: 200px;">
 
 ## About
 
