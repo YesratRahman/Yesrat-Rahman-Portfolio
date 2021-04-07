@@ -3,7 +3,7 @@
 
 # Full Stack Engineer
 
-![Image](https://media-exp1.licdn.com/dms/image/C4D03AQEylwLAduOJUg/profile-displayphoto-shrink_400_400/0/1610250798485?e=1623283200&amp;v=beta&amp;t=vTFYfGMzVg3FvI2lCMgaFScIGOwgFwzK9MK8tUSC9t0)
+![Image](https://www.facebook.com/photo?fbid=2525550831071727&set=a.1389248841368604)
 
 
 ## About
@@ -18,9 +18,10 @@
 * Virginia Tech (2019 - 2020)
    * Bachelor of Science (BS)
    * Computer Science Major, Mathematics Minor
-* Northern Virginia Community College (2018-2019) 
+* Northern Virginia Community College (2017-2018) 
    * Associate Degree 
    * Computer Science Major
 
 ### Summary
+Dedicated Full Stack Engineer with the experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. 
 
