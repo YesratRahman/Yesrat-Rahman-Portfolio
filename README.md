@@ -23,16 +23,19 @@
    * Computer Science Major
 
 ### Summary
-Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products with deadline.
+Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products within deadline.
 
 <hr><hr>
 
 ## Personal Projects
-### Owner and Creator
-#### Personal Wallet
-
-### Owner and Creator
+### Personal Wallet
+#### Owner and Creator
+   * A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them          better understand their savings behavior.
+   * The technologies used for the backend are Spring Boot, Java, Maven dependencies, JDBC template with PostgreSQL for database. 
+   * The frontend technologies are Angular, Typescript, HTML, CSS. 
+### Find My Paradise
 #### Contributor
+   * 
 
 
 <hr><hr>
