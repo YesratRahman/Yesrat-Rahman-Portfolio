@@ -12,15 +12,15 @@
 * **Email**: <a href="mailto:yrahman@talentpath.com">`yrahman@talentpath.com`</a>
 * **Website:**
     * [https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/](https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/)
-* **LinkedIn:** [https://www.linkedin.com/in/yesrat-rahman-84743717a/](https://www.linkedin.com/in/yesrat-rahman-84743717a/)
+* **LinkedIn:** 
+    * [https://www.linkedin.com/in/yesrat-rahman-84743717a/](https://www.linkedin.com/in/yesrat-rahman-84743717a/)
+* **Github:** 
+    * [https://github.com/YesratRahman](https://github.com/YesratRahman)
 
 ### Education
-* Virginia Tech (2019 - 2020)
+* Virginia Tech (December 2019) 
    * Bachelor of Science (BS)
    * Computer Science Major, Mathematics Minor
-* Northern Virginia Community College (2017-2018) 
-   * Associate Degree 
-   * Computer Science Major
 
 ### Summary
 Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products within deadline.
@@ -28,15 +28,26 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 <hr><hr>
 
 ## Personal Projects
-### Personal Wallet
+### [Personal Wallet](https://github.com/YesratRahman/Personal-Wallet)
 #### Owner and Creator
-   * A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them          better understand their savings behavior.
-   * The technologies used for the backend are Spring Boot, Java, Maven dependencies, JDBC template with PostgreSQL for database. 
-   * The frontend technologies are Angular, Typescript, HTML, CSS. 
-### Find My Paradise
+   A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
+   * Spring Boot
+   * Java
+   * JDBC
+   * PostgreSQL
+   * Angular
+   * Typescript
+   * HTML/CSS
+   * JUnit5 
+### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
-   * 
-
+   A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
+   * Spring Boot
+   * Java, Maven 
+   * JPA/Hibernate
+   * Vue.Js
+   * AWS RDS
+   * JUnit5 
 
 <hr><hr>
 
