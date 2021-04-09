@@ -69,3 +69,11 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * Verified proficiency in full stack development through the use of frameworks and libraries such as Java, Spring Boot, Angular, JSON, AWS, HTML/JS, and     PostgreSQL.
    * Completed multiple business case projects by interfacing with analysts and by collaborating with an agile team. 
    * Demonstrated, within a working group, the ability to produce in a highly collaborative environment. 
+
+## Licenses & certifications
+#### Full Stack Developer
+##### Talent Path (Mar 2021)
+##### [See Credential](https://www.credly.com/badges/9fb9c367-a5c7-456f-9519-43442757e1ef?source=linked_in_profile)
+
+#### Diversity and Inclusion Advocate, Talent Path 
+##### [See Credential](https://intranet1.wpengine.com/wp-content/uploads/2021/01/DI-Badges-11.2020-04.png)
