@@ -6,7 +6,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGfnkDJDNDZvw/profile-displayphoto-shrink_400_400/0/1617829757947?e=1623283200&amp;v=beta&amp;t=zSfu8DvZDigPgo3PiEKyKN6P_8d1nqwSexCLXXpx8AA" alt="image">
 
 
-## About
+## About Me 
 
 ### Contact Information
 * **Email**: <a href="mailto:yrahman@talentpath.com">`yrahman@talentpath.com`</a>
@@ -21,7 +21,19 @@
 * Virginia Tech (Dec 2020) 
    * Bachelor of Science (BS)
    * Computer Science Major, Mathematics Minor
-
+### Skills 
+▪ Fundamentals of OOP
+▪ Algorithms Patterns & Testing
+▪ Spring/Spring Boot
+▪ Databases
+▪ HTML/CSS/Javascript
+▪ Typescript + Angular
+▪ Advanced Servers
+▪ Java, Python, C, Linux/Unix,
+GitHub, MATLAB, Jupyter
+Notebook, Latex, MS Office,
+Autodesk, ANTLR, C++,
+SQL, and Angular
 ### Summary
 Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products within deadline.
 
@@ -78,5 +90,6 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ##### Talent Path (Mar 2021)
 ##### [See Credential](https://www.credly.com/badges/9fb9c367-a5c7-456f-9519-43442757e1ef?source=linked_in_profile)
 
-#### Diversity and Inclusion Advocate, Talent Path 
+#### Diversity and Inclusion Advocate
+##### Talent Path (Jan 2021)
 ##### [See Credential](https://intranet1.wpengine.com/wp-content/uploads/2021/01/DI-Badges-11.2020-04.png)
