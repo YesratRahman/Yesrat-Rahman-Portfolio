@@ -13,7 +13,7 @@
    *  <a href="mailto:yrahman@talentpath.com">`yrahman@talentpath.com`</a>
    *  <a href="mailto:yesratrahman200@gmail.com">`yesratrahman200@gmail.com`</a>
 * **Website:**
-    * [https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/](https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/)
+    * [ https://yesratrahman.github.io/YesratRahman/]( https://yesratrahman.github.io/YesratRahman/)
 * **LinkedIn:** 
     * [https://www.linkedin.com/in/yesrat-rahman-84743717a/](https://www.linkedin.com/in/yesrat-rahman-84743717a/)
 * **Github:** 
