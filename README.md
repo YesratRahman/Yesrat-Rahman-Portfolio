@@ -35,7 +35,6 @@
       * Angular 
       * Vue Js
       * Spring/Spring Boot 
-
    * **Technologies:**
       * Linux/Unix
       * GitHub
@@ -44,16 +43,11 @@
       * Latex
       * MS Office
       * Autodesk
-   
   * **Database:**
       * PostgreSQL 
       * MySQL 
       * JPA/Hibernate
       * JQuery
-
- * **Miscellaneous:**
-   * Fundamentals of OOP
-   * Algorithms Patterns & Testing
 
 ### Summary
 Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products within deadline.
