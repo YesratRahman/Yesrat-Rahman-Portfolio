@@ -142,3 +142,5 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Diversity and Inclusion Advocate
 ##### Talent Path (Jan 2021)
 ##### [See Credential](https://intranet1.wpengine.com/wp-content/uploads/2021/01/DI-Badges-11.2020-04.png)
+
+<hr><hr>
