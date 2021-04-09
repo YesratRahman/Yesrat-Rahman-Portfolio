@@ -74,7 +74,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * HTML/CSS
    * JUnit5 
 
-<img id="wallet" src="assets/image1.jpg" alt="image">
+<img src="assets/image1.jpg" alt="image">
 
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
