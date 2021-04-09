@@ -65,34 +65,57 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Personal Wallet](https://github.com/YesratRahman/Personal-Wallet)
 #### Owner and Creator
    A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
-   * Spring Boot
-   * Java
-   * JDBC
-   * PostgreSQL
-   * Angular
-   * Typescript
-   * HTML/CSS
-   * JUnit5 
-   
+ <div> 
+  <ul> 
+    <li> Spring Boot</li> 
+    <li> Java</li> 
+    <li> JDBC</li> 
+    <li> PostgreSQL</li> 
+    <li> Angular</li> 
+    <li> Typescript</li> 
+    <li> HTML/CSS</li> 
+    <li> JUnit5</li> 
+  </ul> 
+</div> 
+<div> 
+  <img src="assets/image1.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
+</div> 
+
+
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
-   * Spring Boot
-   * Java, Maven 
-   * JPA/Hibernate
-   * Vue.Js
-   * AWS RDS
-   * JUnit5 
-   
+   <div> 
+        <img src="assets/image3.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
+  </div> 
+  <div> 
+      <img src="assets/image2.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
+  </div> 
+<div> 
+  <ul> 
+    <li> Spring Boot</li> 
+    <li> Java, Maven</li> 
+    <li> JPA/Hibernate</li> 
+    <li> Vue.Js</li> 
+    <li> AWS RDS</li> 
+    <li> JUnit5</li> 
+  </ul> 
+</div>   
+
+
 ### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
    * Aframe
    * WebXR
    * Glitch
-   * GoPro Fusion Camera, GoPro VR player and Studio
+   * GoPro Fusion Camera, VR player, and Studio
    * JavaScript
    * HTML/CSS
+
+<div> 
+   <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
+</div> 
 <hr><hr>
 
 ## Experience 
