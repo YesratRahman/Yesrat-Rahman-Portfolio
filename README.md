@@ -20,7 +20,7 @@
     * [https://github.com/YesratRahman](https://github.com/YesratRahman)
 
 ### Education
-* Virginia Tech (Dec 2020) 
+* **Virginia Tech (Dec 2020) **
    * Bachelor of Science (BS)
    * Computer Science Major, Mathematics Minor
    
