@@ -29,7 +29,6 @@
       * Java
       * Python 
       * C 
-      * C++ 
       * HTML/CSS/Javascript/Typescript
       * ANTLR
    * **Frameworks:**
