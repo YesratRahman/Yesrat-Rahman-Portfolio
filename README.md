@@ -65,7 +65,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Personal Wallet](https://github.com/YesratRahman/Personal-Wallet)
 #### Owner and Creator
    A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
- <div style="float: left; width: 10%;"> 
+ <div> 
   <ul> 
     <li> Spring Boot</li> 
     <li> Java</li> 
@@ -76,29 +76,19 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     <li> HTML/CSS</li> 
     <li> JUnit5</li> 
   </ul> 
-  </div> 
-<div style="
-    float: left; width: 50%; margin-bottom: 45px;"> 
+</div> 
+<div> 
   <img src="assets/image1.jpg" alt="image">
 </div> 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
    <div> 
-  <div style="float: left; width: 10%;">  
         <img src="assets/image3.png" alt="image">
   </div> 
-<div style="float: left; width: 50%;margin-bottom: 45px;"> 
+  <div> 
       <img src="assets/image2.png" alt="image">
   </div> 
 <div> 
@@ -110,45 +100,20 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     <li> AWS RDS</li> 
     <li> JUnit5</li> 
   </ul> 
-</div>  
-</div> 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+</div>    
 ### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
-   
-<div style="float: left; width: 10%;"> 
-    <ul> 
-      <li> Aframe</li> 
-      <li> WebXR</li> 
-      <li> Glitch</li> 
-      <li> GoPro Fusion Camera, VR player, and Studio</li> 
-      <li> JavaScript</li> 
-      <li> HTML/CSS</li> 
-    </ul> 
-</div>   
-  
-<div style="float: left; width: 50%;margin-bottom: 45px;"> 
+   * Aframe
+   * WebXR
+   * Glitch
+   * GoPro Fusion Camera, VR player, and Studio
+   * JavaScript
+   * HTML/CSS
+
+<div> 
    <img src="assets/image5.png" alt="image">
 </div> 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <hr><hr>
 
 ## Experience 
@@ -171,3 +136,10 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Diversity and Inclusion Advocate
 ##### Talent Path (Jan 2021)
 ##### [See Credential](https://intranet1.wpengine.com/wp-content/uploads/2021/01/DI-Badges-11.2020-04.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/49998106/114225200-0a9dc300-9940-11eb-87ae-ee2a51cdda22.png)
