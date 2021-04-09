@@ -65,7 +65,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Personal Wallet](https://github.com/YesratRahman/Personal-Wallet)
 #### Owner and Creator
    A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
- <div> 
+ <div class="left"> 
   <ul> 
     <li> Spring Boot</li> 
     <li> Java</li> 
@@ -77,7 +77,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     <li> JUnit5</li> 
   </ul> 
 </div> 
-<div> 
+<div class="right"> 
   <img src="assets/image1.jpg" alt="image">
 </div> 
 
@@ -86,9 +86,10 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
    <div> 
+  <div class="left">  
         <img src="assets/image3.png" alt="image">
   </div> 
-  <div> 
+<div class="right"> 
       <img src="assets/image2.png" alt="image">
   </div> 
 <div> 
@@ -100,12 +101,13 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     <li> AWS RDS</li> 
     <li> JUnit5</li> 
   </ul> 
-</div>    
+</div>  
+</div> 
 ### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
    
-<div> 
+<div class="left"> 
     <ul> 
       <li> Aframe</li> 
       <li> WebXR</li> 
@@ -116,7 +118,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     </ul> 
 </div>   
   
-<div> 
+<div class="right"> 
    <img src="assets/image5.png" alt="image">
 </div> 
 
