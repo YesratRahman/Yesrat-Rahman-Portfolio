@@ -66,8 +66,10 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Owner and Creator
    A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
  <div> 
-  <img src="assets/image1.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
+  <img src="assets/image1.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px;">
 </div> 
+<br/> 
+
  <div> 
   <ul> 
     <li> Spring Boot</li> 
@@ -87,7 +89,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
    <div> 
-        <img src="assets/image6.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
+        <img src="assets/image6.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px150px150px;">
   </div> 
  
 <div> 
@@ -101,10 +103,12 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
   </ul> 
 </div>   
 
-
 ### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
+   <div>150px150px
+   <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px150px;">
+</div> 
    <div> 
       <ul> 
       <li> Aframe</li> 
@@ -116,9 +120,9 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     </ul> 
 </div>   
   
-<div> 
-   <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
-</div> 
+<br/> 
+<br/> 
+
 <hr><hr>
 
 ## Experience 
