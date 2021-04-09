@@ -18,7 +18,7 @@
     * [https://github.com/YesratRahman](https://github.com/YesratRahman)
 
 ### Education
-* Virginia Tech (December 2019) 
+* Virginia Tech (Dec 2020) 
    * Bachelor of Science (BS)
    * Computer Science Major, Mathematics Minor
 
@@ -48,7 +48,15 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * Vue.Js
    * AWS RDS
    * JUnit5 
-
+### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
+#### Contributor
+   An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
+   * Aframe
+   * WebXR
+   * Glitch
+   * GoPro Fusion Camera, GoPro VR player and Studio
+   * JavaScript
+   * HTML/CSS
 <hr><hr>
 
 ## Experience 
