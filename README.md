@@ -82,6 +82,9 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
   <img src="assets/image1.jpg" alt="image">
 </div> 
 
+<br/>
+<br/>
+<br/>
 
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
