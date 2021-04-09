@@ -9,7 +9,9 @@
 ## About Me 
 
 ### Contact Information
-* **Email**: <a href="mailto:yrahman@talentpath.com">`yrahman@talentpath.com`</a>
+* **Email**
+   *  <a href="mailto:yrahman@talentpath.com">`yrahman@talentpath.com`</a>
+   *  <a href="mailto:yesratrahman200@gmail.com">`yesratrahman200@gmail.com`</a>
 * **Website:**
     * [https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/](https://yesratrahman.github.io/Yesrat-Rahman-Portfolio/)
 * **LinkedIn:** 
