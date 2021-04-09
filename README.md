@@ -65,6 +65,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Personal Wallet](https://github.com/YesratRahman/Personal-Wallet)
 #### Owner and Creator
    A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
+   <div> 
    * Spring Boot
    * Java
    * JDBC
@@ -73,12 +74,22 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * Typescript
    * HTML/CSS
    * JUnit5 
+</div> 
+<div> 
+  <img src="assets/image1.jpg" alt="image">
+</div> 
 
-<img src="assets/image1.jpg" alt="image">
 
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
+   <div> 
+        <img src="assets/image3.png" alt="image">
+  </div> 
+  <div> 
+      <img src="assets/image2.png" alt="image">
+  </div> 
+
    * Spring Boot
    * Java, Maven 
    * JPA/Hibernate
@@ -92,9 +103,13 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * Aframe
    * WebXR
    * Glitch
-   * GoPro Fusion Camera, GoPro VR player and Studio
+   * GoPro Fusion Camera, VR player, and Studio
    * JavaScript
    * HTML/CSS
+
+<div> 
+   <img src="assets/image5.png" alt="image">
+</div> 
 <hr><hr>
 
 ## Experience 
