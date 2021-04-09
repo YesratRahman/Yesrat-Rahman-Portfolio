@@ -106,7 +106,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
-   <div>150px150px
+   <div>
    <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px;">
 </div> 
    <div> 
