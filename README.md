@@ -60,3 +60,10 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 <hr><hr>
 
 ## Experience 
+### Full Stack Engineer
+#### Talent Path
+##### January 2021 - Present
+   * Successfully engaged in 9-weeks of work-readiness training.
+   * Verified proficiency in full stack development through the use of frameworks and libraries such as Java, Spring Boot, Angular, JSON, AWS, HTML/JS, and     Postgres.
+   * Completed multiple business case projects by interfacing with analysts and by collaborating with an agile team. 
+   * Demonstrated, within a working group, the ability to produce in a highly collaborative environment. 
