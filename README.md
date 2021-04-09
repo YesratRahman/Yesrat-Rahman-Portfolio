@@ -100,7 +100,9 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     <li> AWS RDS</li> 
     <li> JUnit5</li> 
   </ul> 
-</div>    
+</div>   
+
+
 ### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
@@ -136,10 +138,3 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Diversity and Inclusion Advocate
 ##### Talent Path (Jan 2021)
 ##### [See Credential](https://intranet1.wpengine.com/wp-content/uploads/2021/01/DI-Badges-11.2020-04.png)
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/49998106/114225200-0a9dc300-9940-11eb-87ae-ee2a51cdda22.png)
