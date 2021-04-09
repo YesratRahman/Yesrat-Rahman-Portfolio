@@ -126,7 +126,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 
 <hr><hr>
 
-## Licenses & certifications
+## Licenses & Certifications
 
 #### Full Stack Developer
 ##### Talent Path (Mar 2021)
