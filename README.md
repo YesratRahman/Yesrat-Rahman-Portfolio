@@ -74,9 +74,9 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 
 ## Licenses & certifications
 
- #### Full Stack Developer
-   ##### Talent Path (Mar 2021)
-   ##### [See Credential](https://www.credly.com/badges/9fb9c367-a5c7-456f-9519-43442757e1ef?source=linked_in_profile)
+#### Full Stack Developer
+##### Talent Path (Mar 2021)
+##### [See Credential](https://www.credly.com/badges/9fb9c367-a5c7-456f-9519-43442757e1ef?source=linked_in_profile)
 
 #### Diversity and Inclusion Advocate, Talent Path 
-   ##### [See Credential](https://intranet1.wpengine.com/wp-content/uploads/2021/01/DI-Badges-11.2020-04.png)
+##### [See Credential](https://intranet1.wpengine.com/wp-content/uploads/2021/01/DI-Badges-11.2020-04.png)
