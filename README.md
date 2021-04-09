@@ -39,6 +39,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * Typescript
    * HTML/CSS
    * JUnit5 
+   
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
@@ -48,6 +49,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * Vue.Js
    * AWS RDS
    * JUnit5 
+   
 ### [Interactive 360 Virtual Tour of the Peddrew-Yates Hall](https://wordpress.cs.vt.edu/ccs2020f/2020/12/13/vt-360/)
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
@@ -64,6 +66,6 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Talent Path
 ##### January 2021 - Present
    * Successfully engaged in 9-weeks of work-readiness training.
-   * Verified proficiency in full stack development through the use of frameworks and libraries such as Java, Spring Boot, Angular, JSON, AWS, HTML/JS, and     Postgres.
+   * Verified proficiency in full stack development through the use of frameworks and libraries such as Java, Spring Boot, Angular, JSON, AWS, HTML/JS, and     PostgreSQL.
    * Completed multiple business case projects by interfacing with analysts and by collaborating with an agile team. 
    * Demonstrated, within a working group, the ability to produce in a highly collaborative environment. 
