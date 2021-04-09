@@ -70,6 +70,8 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * Completed multiple business case projects by interfacing with analysts and by collaborating with an agile team. 
    * Demonstrated, within a working group, the ability to produce in a highly collaborative environment. 
 
+<hr><hr>
+
 ## Licenses & certifications
 
  #### Full Stack Developer
