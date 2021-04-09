@@ -65,7 +65,8 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Personal Wallet](https://github.com/YesratRahman/Personal-Wallet)
 #### Owner and Creator
    A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
- <div class="left"> 
+ <div style="
+    float: left; width: 50%;"> 
   <ul> 
     <li> Spring Boot</li> 
     <li> Java</li> 
@@ -76,8 +77,9 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     <li> HTML/CSS</li> 
     <li> JUnit5</li> 
   </ul> 
-</div> 
-<div class="right"> 
+  </div> 
+<div style="
+    float: left; width: 50%;"> 
   <img src="assets/image1.jpg" alt="image">
 </div> 
 
