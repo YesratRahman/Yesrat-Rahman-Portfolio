@@ -26,3 +26,9 @@ img {
     margin-left: 200px;
 } 
 
+.left,
+.right {
+  width: 50%;
+  float: left;
+}
+
