@@ -78,7 +78,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
   </ul> 
 </div> 
 <div> 
-  <img src="assets/image1.jpg" alt="image">
+  <img src="assets/image1.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
 </div> 
 
 
@@ -86,10 +86,10 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
    <div> 
-        <img src="assets/image3.png" alt="image">
+        <img src="assets/image3.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
   </div> 
   <div> 
-      <img src="assets/image2.png" alt="image">
+      <img src="assets/image2.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
   </div> 
 <div> 
   <ul> 
@@ -114,7 +114,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    * HTML/CSS
 
 <div> 
-   <img src="assets/image5.png" alt="image">
+   <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 200px;">
 </div> 
 <hr><hr>
 
