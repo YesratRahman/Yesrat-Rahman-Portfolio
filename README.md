@@ -23,7 +23,10 @@
 ##### Virginia Tech (Dec 2020)
    * Bachelor of Science (BS)
    * Computer Science Major, Mathematics Minor
-   
+ 
+### Summary
+Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products within deadline.
+
 ### Skills and Technologies
    * **Languages:**
       * Java
@@ -48,9 +51,6 @@
       * MySQL 
       * JPA/Hibernate
       * JQuery
-
-### Summary
-Dedicated Full Stack Engineer with hands on experience of using tools such as Spring Boot, Angular, Vue.js, JPA/Hibernate, REST, and SQL Databases. Demonstrates the capability of maintaining code by fixing bugs as well as conducting end to end testing. Highly skilled at collaborating with team members to ship beautiful products within deadline.
 
 <hr><hr>
 
