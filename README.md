@@ -89,7 +89,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
    <div> 
-        <img src="assets/image6.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px150px150px;">
+        <img src="assets/image6.jpg" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px;">
   </div> 
  
 <div> 
@@ -107,7 +107,7 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Contributor
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
    <div>150px150px
-   <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px150px;">
+   <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 300px; height: 200px; margin-left: 150px;">
 </div> 
    <div> 
       <ul> 
@@ -120,9 +120,6 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
     </ul> 
 </div>   
   
-<br/> 
-<br/> 
-
 <hr><hr>
 
 ## Experience 
