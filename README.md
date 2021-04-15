@@ -57,7 +57,8 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Personal Wallet](https://github.com/YesratRahman/Personal-Wallet)
 #### Owner and Creator
    A full-stack web application which will help users to keep track of their daily incomes and expenses along with showcasing charts and graphs to help them            better understand their savings behavior.
-  <img src="assets/FMP.gif" id="gif">
+   
+   <img src="assets/image7.jpg" alt="image" style="max-width: 100%;width: 400PX; height: 290PX; margin-left: 100PX;">
 <br/> 
 
  <div> 
@@ -79,8 +80,8 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
    <div> 
-        <img src="assets/image6.jpg" alt="image" style="max-width: 100%;width: 400PX; height: 290PX; margin-left: 100PX;">
-  </div> 
+     <img src="assets/FMP.gif" id="gif">
+   </div> 
  
 <div> 
   <ul> 
