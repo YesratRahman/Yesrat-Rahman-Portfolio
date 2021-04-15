@@ -7,7 +7,12 @@ html {
   scrollbar-color: #202324 #454a4d;
 }
 
-
+.markdown-body img {
+    max-width: 100%;
+    width: 100px;
+    box-sizing: initial;
+    background-color: var(--color-bg-primary);
+} 
 #full-stack-engineer{
   text-align: center; 
 } 
