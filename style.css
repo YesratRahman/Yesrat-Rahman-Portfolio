@@ -7,36 +7,22 @@ html {
   scrollbar-color: #202324 #454a4d;
 }
 
+.markdown-body img {
+    max-width: 100%;
+    width: 100px;
+    box-sizing: initial;
+    background-color: var(--color-bg-primary);
+} 
 #full-stack-engineer{
   text-align: center; 
 } 
 
-img[alt="first"] {
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-}
-img[alt="second"] {
-  max-width: 100%;
+img {
+    max-width: 100%;
     width: 220px;
     height: 260px;
     margin-left: 200px;
 }
-
-img[alt="third"] {
-  max-width: 100%;
-    width: 220px;
-    height: 260px;
-    margin-left: 200px;
-}
-
-img[alt="profile"] {
-  max-width: 100%;
-    width: 220px;
-    height: 260px;
-    margin-left: 200px;
-}
-
 
 #user-content-wallet{
     max-width: 100%;
