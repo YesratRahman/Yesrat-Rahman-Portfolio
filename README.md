@@ -85,9 +85,10 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
     
-   <img src="assets/FMP.gif" id="gif">
   
- 
+ <p align="center">
+  <img src="assets/FMP.gif" id="gif" width="600" height="295">
+  </p>
 <div> 
   <ul> 
     <li> Spring Boot</li> 
@@ -104,9 +105,9 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
    An interactive and immersive website giving users a virtual tour to the historical building, Paddrew-Yates Hall related to Virginia Tech Black Student Community    to honor and showcase the history of the African-American community.
    
   
-   <div>
-   <img src="assets/image5.png" alt="image" style="max-width: 100%;width: 400PX; height: 290PX; margin-left: 100PX;">
-  </div> 
+   <p align="center">
+   <img src="assets/image5.png" alt="image" width="600" height="295">
+  </p>
    <div> 
       <ul> 
       <li> Aframe</li> 
