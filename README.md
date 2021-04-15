@@ -3,7 +3,7 @@
 
 # Full Stack Engineer
 
- <img src="assets/image7.png" alt="profile">
+ <img src="assets/image7.png" alt="profile" width="250">
 
 
 ## About Me 
