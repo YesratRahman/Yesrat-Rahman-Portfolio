@@ -21,14 +21,22 @@ html {
   margin-right: auto;
   width: 80%;
 } */
-img{
+/* img{
   
 border-style: none;
     max-width: 100%;
     width: 220px;
     height: 220px;
     margin-left: 200px;
-} 
+}  */
+
+img {
+    max-width: 100%;
+    width: 220px;
+    height: 220px;
+    margin-left: 200px;
+}
+
 img[alt="profile"] {
   width: 45%;
 }
