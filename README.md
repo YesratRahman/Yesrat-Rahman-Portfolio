@@ -79,9 +79,9 @@ Dedicated Full Stack Engineer with hands on experience of using tools such as Sp
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 #### Contributor
    A full stack application of a clone Airbnb listing page that allows users to view details of a listing property, reserve rental dates, view nearby                  attractions/events and see reviews of listings. 
-   <div> 
-     <img src="assets/FMP.gif" id="gif">
-   </div> 
+    
+   <img src="assets/FMP.gif" id="gif">
+  
  
 <div> 
   <ul> 
