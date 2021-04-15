@@ -7,21 +7,38 @@ html {
   scrollbar-color: #202324 #454a4d;
 }
 
-.markdown-body img {
+/* .markdown-body img {
     max-width: 100%;
     width: 100px;
     box-sizing: initial;
     background-color: var(--color-bg-primary);
-} 
+}  */
 #full-stack-engineer{
   text-align: center; 
 } 
-
-img {
+/* img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+} */
+/* img{
+  
+border-style: none;
     max-width: 100%;
     width: 220px;
     height: 220px;
     margin-left: 200px;
+}  */
+
+img {
+    max-width: 100%;
+    width: 220px;
+    height: 260px;
+    margin-left: 200px;
+}
+
+img[alt="profile"] {
+  width: 45%;
 }
 
 #user-content-wallet{
