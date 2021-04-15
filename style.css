@@ -17,8 +17,29 @@ html {
   text-align: center; 
 } 
 
-img {
+/* img {
     max-width: 100%;
+    width: 220px;
+    height: 260px;
+    margin-left: 200px;
+} */
+
+
+img[alt="profile"] {
+   max-width: 100%;
+    width: 220px;
+    height: 260px;
+    margin-left: 200px;
+}
+
+img[alt="personalWallet"] {
+   max-width: 100%;
+    width: 220px;
+    height: 260px;
+    margin-left: 200px;
+}
+img[alt="image"] {
+   max-width: 100%;
     width: 220px;
     height: 260px;
     margin-left: 200px;
