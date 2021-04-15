@@ -2,8 +2,9 @@
 
 
 # Full Stack Engineer
-   
-<img width="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQFwztku5-_DkQ/profile-displayphoto-shrink_400_400/0/1617830003135?e=1623888000&amp;v=beta&amp;t=w1AoaZH7-jYJEEk5hBaCYXd4WMjf-soy6fiZVJbQ3OU" height="200" alt="Edit photo" id="ember52" class="profile-photo-edit__preview ember-view">
+
+ <img src="assets/image7.png" alt="profile">
+
 
 ## About Me 
 
