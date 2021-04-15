@@ -37,10 +37,10 @@ img {
     margin-left: 200px;
 }
 
-img[alt="profile"] {
+/* img[alt="profile"] {
   width: 45%;
 }
-
+ */
 #user-content-wallet{
     max-width: 100%;
     width: 220px;
