@@ -16,12 +16,14 @@ html {
 #full-stack-engineer{
   text-align: center; 
 } 
-
 img {
-    max-width: 100%;
-    width: 220px;
-    height: 220px;
-    margin-left: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+img[alt="profile"] {
+  width: 45%;
 }
 
 #user-content-wallet{
